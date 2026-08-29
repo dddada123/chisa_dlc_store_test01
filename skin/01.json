@@ -24,5 +24,8 @@
   "glass": true,
   "quotes": [
     "海伦可爱捏"
-  ]
+  ],
+  "assets": {
+    "bg": "skin/01.png"
+  }
 }
