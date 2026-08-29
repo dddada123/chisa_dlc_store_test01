@@ -2,23 +2,12 @@
   {
     "id": "fd9998",
     "cat": "fd",
-    "title": "【食品】我是应急食品",
-    "author": "第三方商店测试",
+    "title": "应急食品",
+    "author": "白飞飞",
     "size": "21.0MB",
     "desc": "第三方商店测试_5图",
     "sha256": "c3235012993498aa54f7866ca83b18c6903f239dab2da10d8e91e01ac2ae102d",
     "cover_ext": "png",
-    "update_time": "2026-08-28"
-  },
-  {
-    "id": "fd8899",
-    "cat": "fd",
-    "title": "【食品】测试测试111",
-    "author": "测试测试111",
-    "size": "12.4MB",
-    "desc": "【食品】测试测试111",
-    "sha256": "fc46af3173ca37c0e72e04ab03dedd49fe62dcdc77e712c927b9ad23bf10645a",
-    "cover_ext": "jpg",
     "update_time": "2026-08-28"
   }
 ]
