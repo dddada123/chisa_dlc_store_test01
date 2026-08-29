@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "skins": [
+    {
+      "id": "01",
+      "name": "海伦侍寝",
+      "author": "NIKKE",
+      "config": "skin/01.json",
+      "glass": true,
+      "bg": "skin/01.png"
+    }
+  ]
+}
