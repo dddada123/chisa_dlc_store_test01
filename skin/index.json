@@ -2,20 +2,20 @@
   "schema_version": 1,
   "skins": [
     {
-      "id": "sk0001",
-      "name": "海伦·泡沫中的恋心",
-      "author": "宙斯盾部队",
-      "config": "skin/sk0001.json",
-      "glass": true,
-      "bg": "skin/sk0001.png"
-    },
-    {
       "id": "sk0003",
       "name": "拉毗·平安夜的暖光",
       "author": "反击部队",
       "config": "skin/sk0003.json",
       "glass": true,
       "bg": "skin/sk0003.png"
+    },
+    {
+      "id": "sk0001",
+      "name": "海伦·泡沫中的恋心",
+      "author": "宙斯盾部队",
+      "config": "skin/sk0001.json",
+      "glass": true,
+      "bg": "skin/sk0001.png"
     }
   ]
 }
