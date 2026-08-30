@@ -16,6 +16,14 @@
       "config": "skin/sk0001.json",
       "glass": true,
       "bg": "skin/sk0001.png"
+    },
+    {
+      "id": "sk0002",
+      "name": "海伦·睡衣233",
+      "author": "指挥官",
+      "config": "skin/sk0002.json",
+      "glass": true,
+      "bg": "skin/sk0002.png"
     }
   ]
 }
