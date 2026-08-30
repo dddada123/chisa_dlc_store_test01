@@ -20,7 +20,12 @@
       "author": "热销如潮部队",
       "config": "skin/sk0005.json",
       "glass": true,
-      "bg": "skin/sk0005.jpg"
+      "bg": "skin/sk0005.jpg",
+      "desc": "你今天……运气超级好哦～",
+      "vars": {
+        "--primary": "#B15EFF",
+        "--bg": "#2E1030"
+      }
     }
   ]
 }
