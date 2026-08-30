@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "sk0003",
+  "name": "暗血红蔷薇主题",
+  "author": "222",
+  "type": "glass",
+  "desc": "",
+  "vars": {
+    "--hover-tint": "rgba(211, 47, 47, 0.14)",
+    "--bg": "#241009",
+    "--panel": "rgba(47, 18, 14, 0.45)",
+    "--card": "rgba(66, 26, 18, 0.40)",
+    "--text": "#FAF0EC",
+    "--muted": "#C6AEA9",
+    "--primary": "#d32f2f",
+    "--primary-hover": "#ef5350",
+    "--primary-contrast": "#ffffff",
+    "--line": "rgba(239, 83, 80, 0.35)",
+    "--shadow": "rgba(0, 0, 0, 0.45)",
+    "--surface": "rgba(88, 38, 28, 0.35)",
+    "--surface-dark": "rgba(16, 8, 6, 0.55)",
+    "--input-bg": "#351812",
+    "--overlay": "rgba(5, 2, 2, 0.65)"
+  },
+  "glass": true,
+  "quotes": [
+    "测试拉毗"
+  ],
+  "assets": {
+    "bg": "skin/sk0003.png"
+  }
+}
