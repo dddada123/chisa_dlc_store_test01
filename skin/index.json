@@ -8,6 +8,14 @@
       "config": "skin/01.json",
       "glass": true,
       "bg": "skin/01.png"
+    },
+    {
+      "id": "sk0001",
+      "name": "海伦·睡衣",
+      "author": "指挥官",
+      "config": "skin/sk0001.json",
+      "glass": true,
+      "bg": "skin/sk0001.png"
     }
   ]
 }
