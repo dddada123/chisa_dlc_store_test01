@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "sk0005",
+  "name": "阿尔卡娜·命运转校生",
+  "author": "热销如潮部队",
+  "type": "glass",
+  "desc": "",
+  "vars": {
+    "--hover-tint": "rgba(0, 128, 255, 0.12)",
+    "--bg": "#ffc1ff",
+    "--panel": "rgba(214, 130, 214, 0.45)",
+    "--card": "rgba(255, 220, 255, 0.40)",
+    "--text": "#2D1B36",
+    "--muted": "#6B4B73",
+    "--primary": "#0080ff",
+    "--primary-hover": "#4da6ff",
+    "--primary-contrast": "#111111",
+    "--line": "rgba(0, 128, 255, 0.30)",
+    "--shadow": "rgba(0, 0, 0, 0.45)",
+    "--surface": "rgba(255, 210, 255, 0.35)",
+    "--surface-dark": "rgba(90, 40, 90, 0.50)",
+    "--input-bg": "#fff0ff",
+    "--overlay": "rgba(60, 10, 60, 0.65)"
+  },
+  "glass": true,
+  "quotes": [
+    "放学后要不要来我的占卜屋坐坐？我可是有办法让校园庆典顺利举办的哦。",
+    "别看我穿成这样，我可是个很准的占卜师呢！你今天……运气超级好哦～"
+  ],
+  "assets": {
+    "bg": "skin/sk0005.jpg"
+  }
+}
