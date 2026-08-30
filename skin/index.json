@@ -16,6 +16,14 @@
       "config": "skin/sk0001.json",
       "glass": true,
       "bg": "skin/sk0001.png"
+    },
+    {
+      "id": "sk0005",
+      "name": "阿尔卡娜·命运转校生",
+      "author": "热销如潮部队",
+      "config": "skin/sk0005.json",
+      "glass": true,
+      "bg": "skin/sk0005.jpg"
     }
   ]
 }
