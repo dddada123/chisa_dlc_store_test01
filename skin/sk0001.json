@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "sk0001",
+  "name": "海伦·睡衣",
+  "author": "指挥官",
+  "type": "glass",
+  "desc": "",
+  "vars": {
+    "--hover-tint": "rgba(163, 168, 240, 0.15)",
+    "--bg": "#16122E",
+    "--panel": "rgba(40, 35, 80, 0.45)",
+    "--card": "rgba(50, 45, 95, 0.40)",
+    "--text": "#F5F2FA",
+    "--muted": "#B5AECD",
+    "--primary": "#A3A8F0",
+    "--primary-hover": "#C8CFFA",
+    "--line": "rgba(163, 168, 240, 0.30)",
+    "--shadow": "rgba(0, 0, 30, 0.70)",
+    "--surface": "rgba(70, 65, 120, 0.35)",
+    "--surface-dark": "rgba(25, 20, 45, 0.55)",
+    "--input-bg": "#221A40",
+    "--overlay": "rgba(0, 0, 0, 0)"
+  },
+  "glass": true,
+  "assets": {
+    "bg": "skin/sk0001.png"
+  }
+}
