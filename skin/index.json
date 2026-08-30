@@ -10,25 +10,9 @@
       "bg": "skin/01.png"
     },
     {
-      "id": "sk0001",
-      "name": "海伦·睡衣",
-      "author": "指挥官",
-      "config": "skin/sk0001.json",
-      "glass": true,
-      "bg": "skin/sk0001.png"
-    },
-    {
-      "id": "sk0002",
-      "name": "海伦·睡衣233",
-      "author": "指挥官",
-      "config": "skin/sk0002.json",
-      "glass": true,
-      "bg": "skin/sk0002.png"
-    },
-    {
       "id": "sk0003",
-      "name": "暗血红蔷薇主题",
-      "author": "222",
+      "name": "平安夜的暖光",
+      "author": "反击部队",
       "config": "skin/sk0003.json",
       "glass": true,
       "bg": "skin/sk0003.png"
