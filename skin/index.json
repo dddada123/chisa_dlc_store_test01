@@ -3,8 +3,8 @@
   "skins": [
     {
       "id": "01",
-      "name": "海伦侍寝",
-      "author": "NIKKE",
+      "name": "泡沫中的恋心",
+      "author": "宙斯盾部队",
       "config": "skin/01.json",
       "glass": true,
       "bg": "skin/01.png"
