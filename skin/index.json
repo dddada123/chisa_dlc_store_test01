@@ -24,6 +24,14 @@
       "config": "skin/sk0002.json",
       "glass": true,
       "bg": "skin/sk0002.png"
+    },
+    {
+      "id": "sk0003",
+      "name": "暗血红蔷薇主题",
+      "author": "222",
+      "config": "skin/sk0003.json",
+      "glass": true,
+      "bg": "skin/sk0003.png"
     }
   ]
 }
