@@ -7,7 +7,12 @@
       "author": "宙斯盾部队",
       "config": "skin/sk0001.json",
       "glass": true,
-      "bg": "skin/sk0001.png"
+      "bg": "skin/sk0001.png",
+      "desc": "指尖揉进泡沫，恋心淌过发梢。",
+      "vars": {
+        "--primary": "#A3A8F0",
+        "--bg": "#16122E"
+      }
     },
     {
       "id": "sk0005",
