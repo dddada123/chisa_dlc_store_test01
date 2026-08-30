@@ -3,7 +3,7 @@
   "skins": [
     {
       "id": "01",
-      "name": "泡沫中的恋心",
+      "name": "海伦·泡沫中的恋心",
       "author": "宙斯盾部队",
       "config": "skin/01.json",
       "glass": true,
@@ -11,7 +11,7 @@
     },
     {
       "id": "sk0003",
-      "name": "平安夜的暖光",
+      "name": "拉毗·平安夜的暖光",
       "author": "反击部队",
       "config": "skin/sk0003.json",
       "glass": true,
