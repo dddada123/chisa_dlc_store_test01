@@ -4,7 +4,7 @@
   "name": "阿尔卡娜·命运转校生",
   "author": "热销如潮部队",
   "type": "glass",
-  "desc": "",
+  "desc": "你今天……运气超级好哦～",
   "vars": {
     "--hover-tint": "rgba(177, 94, 255, 0.12)",
     "--bg": "#2E1030",
@@ -20,7 +20,7 @@
     "--surface": "rgba(85, 45, 85, 0.35)",
     "--surface-dark": "rgba(20, 5, 20, 0.55)",
     "--input-bg": "#3A1A3A",
-    "--overlay": "rgba(20, 0, 20, 0.30)"
+    "--overlay": "rgba(0, 0, 0, 0)"
   },
   "glass": true,
   "quotes": [
