@@ -14,7 +14,7 @@
     "--muted": "#D8B4D8",
     "--primary": "#B15EFF",
     "--primary-hover": "#D48FFF",
-    "--primary-contrast": "#111111",
+    "--primary-contrast": "#002585",
     "--line": "rgba(209, 106, 255, 0.40)",
     "--shadow": "rgba(0, 0, 0, 0.40)",
     "--surface": "rgba(85, 45, 85, 0.35)",
