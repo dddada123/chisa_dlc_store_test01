@@ -23,7 +23,7 @@
       "bg": "skin/sk0005.jpg",
       "desc": "你今天……运气超级好哦～",
       "vars": {
-        "--primary": "#B15EFF",
+        "--primary": "#42A5FF",
         "--bg": "#2E1030"
       }
     }
